@@ -1,0 +1,10 @@
+Folder Name -> news
+Database name -> ci1
+
+user -> admin
+password -> news
+
+
+
+
+
